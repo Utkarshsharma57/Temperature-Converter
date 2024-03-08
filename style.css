@@ -1,0 +1,33 @@
+body{
+    background-color: aquamarine;
+    margin: 50px;
+    padding: 50px;
+}
+#convert{
+    margin: 20px;
+    font-size: larger;
+   
+
+
+}
+#clear{
+font-size: larger;
+
+}
+#celsius{
+    margin: 20px;
+    width: 50%;
+    height: 30px;
+    text-align: center;
+    font-size: larger;
+}
+#fahrenheit{
+    margin: 20px;
+    width: 50%;
+    height: 30px;
+    text-align: center;
+    font-size: large;
+}
+h1{
+    font-family: cursive;
+}
